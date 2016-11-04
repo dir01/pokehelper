@@ -1,0 +1,2 @@
+git+git://github.com/rubenvereecken/pokemongo-api@master
+plumbum==1.6.2
